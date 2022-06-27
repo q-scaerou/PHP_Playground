@@ -1,0 +1,92 @@
+.rdbtn {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    font-size: 50px;
+}
+
+.smallrdbtn {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    font-size: 15px;
+    text-align: center;
+    margin: 2px 2px 2px 2px;
+    padding: 0px;
+}
+
+h1 {
+    margin-left: 20px;
+    color:whitesmoke;
+}
+
+h3 {
+    margin-left: 40px;
+}
+
+.about {
+    padding: 5px;
+    background-color: rgba(52, 58, 64, 0.75);
+    border-radius: 20px;
+    color: whitesmoke;
+}
+
+body {
+    background-color: rgb(243, 232, 212);
+}
+
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: whitesmoke;
+    text-align: justify;
+}
+
+.menu {
+    color:rgba(52, 58, 64, 1);
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+th, tr, td {
+    background-color: rgba(52, 58, 64, 0.75);
+    color: whitesmoke;
+
+}
+
+.formular {
+    margin: 25px 400px 25px 250px;
+    padding: 10px 10px 10px 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(52, 58, 64, 0.75);
+
+}
+
+.formfield {
+    margin: 10px 10px 30px 150px;
+}
+
+label {
+    margin-right: 5px;
+}
+
+textarea {
+    width: 685px;
+    height: 150px;
+}
+
+.hiddenlink {
+    color: whitesmoke;   
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
